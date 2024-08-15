@@ -6,7 +6,7 @@ _Create and run a GitHub Actions workflow._
 
 </header>
 
-_*Happy to use this repo*_
+_**Happy to use this repo to learn github actions, edited by @Betsaleel237**_
 
 ## Step 5: Trigger the workflow
 

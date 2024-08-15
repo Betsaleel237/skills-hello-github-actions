@@ -3,8 +3,10 @@
 # Hello GitHub Actions
 
 _Create and run a GitHub Actions workflow._
-*Happy to use this repo*
+
 </header>
+
+_*Happy to use this repo*_
 
 ## Step 5: Trigger the workflow
 
